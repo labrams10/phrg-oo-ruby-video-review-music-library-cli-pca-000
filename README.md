@@ -19,5 +19,9 @@ This video lesson uses a review of the Music Libray CLI lab as the basis for a c
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/iClea2crypU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-ruby-video-review-music-library-cli-pca-000/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-ruby-video-review-music-library-cli-pca-000/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-music-library-cli'>Video Review: Music Library CLI</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Video Review: Music Library CLI</p>
